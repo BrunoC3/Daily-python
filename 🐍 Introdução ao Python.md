@@ -32,6 +32,6 @@ print("Olá, mundo!")
 
 ## **Topicos para entender a linguagem**
 
-- [➡️ Variáveis e Tipos de Dados](./tipos_variaveis.md)
-- [➡️ Operadores](./operadores.md)
-- [➡️ Estruturas de Controle](./Estruturas_de_Controle.md)
+- [➡️ Variáveis e Tipos de Dados](./daily-01/Tipos_variaveis.md)
+- [➡️ Operadores](./daily-01/operadores.md)
+- [➡️ Estruturas de Controle](./daily-01/Estruturas_de_Controle.md)
